@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jogiaa/npmTut/issues"
   },
-  "homepage": "https://github.com/jogiaa/npmTut#readme"
+  "homepage": "https://github.com/jogiaa/npmTut#readme",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
 }
