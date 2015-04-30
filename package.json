@@ -1,0 +1,24 @@
+{
+  "name": "mohabaat",
+  "version": "1.0.0",
+  "description": "mohabbat buri bemari....bombay valvet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogiaa/npmTut.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "javascript"
+  ],
+  "author": "Jogiaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogiaa/npmTut/issues"
+  },
+  "homepage": "https://github.com/jogiaa/npmTut#readme"
+}
